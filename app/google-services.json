@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "556675480157",
+    "firebase_url": "https://whatsappclonesakib-default-rtdb.firebaseio.com",
+    "project_id": "whatsappclonesakib",
+    "storage_bucket": "whatsappclonesakib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556675480157:android:3f24812457f86e96a0abb4",
+        "android_client_info": {
+          "package_name": "com.developeralamin.anyonejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556675480157-14gk6jctohgjepch633hc4jn0qbdthcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developeralamin.anyonejava",
+            "certificate_hash": "137dead0357f5c979a7fd9f800f890f3e1c78566"
+          }
+        },
+        {
+          "client_id": "556675480157-tjvekbd30fm87faua8vijadk9l8aes7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZy4dz6SzRFRt-yClaOnfuvGjxNZW5Vvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556675480157-tjvekbd30fm87faua8vijadk9l8aes7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556675480157-n35vm9ev2h6mv0nj98i26ag93dn4uk0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "-.PhoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556675480157:android:49fed9361c336e03a0abb4",
+        "android_client_info": {
+          "package_name": "com.developeralamin.ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556675480157-tjvekbd30fm87faua8vijadk9l8aes7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZy4dz6SzRFRt-yClaOnfuvGjxNZW5Vvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556675480157-tjvekbd30fm87faua8vijadk9l8aes7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556675480157-n35vm9ev2h6mv0nj98i26ag93dn4uk0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "-.PhoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556675480157:android:60fb3dfd2d90828ea0abb4",
+        "android_client_info": {
+          "package_name": "com.developeralamin.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556675480157-n009a1k5cmg7vqdk8ta6jpbet0dpqq3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developeralamin.whatsappclone",
+            "certificate_hash": "137dead0357f5c979a7fd9f800f890f3e1c78566"
+          }
+        },
+        {
+          "client_id": "556675480157-tjvekbd30fm87faua8vijadk9l8aes7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZy4dz6SzRFRt-yClaOnfuvGjxNZW5Vvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556675480157-tjvekbd30fm87faua8vijadk9l8aes7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556675480157-n35vm9ev2h6mv0nj98i26ag93dn4uk0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "-.PhoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
